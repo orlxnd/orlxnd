@@ -24,9 +24,3 @@
         </p>
     </div>
   <br>
-
-- ⭐ Github Star ⭐
-<br>
-
-
-### ⚙️ &nbsp;GitHub Analytics
