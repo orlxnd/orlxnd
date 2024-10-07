@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Orlando</a> 👋</h1>
+</div>
+<img src="">
+<div align=center>
+    <a href="mailto:carlosdc410@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  	<a href="https://github.com/orlxnd"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</a>
+  	<a href="https://www.instagram.com/orlxnd_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </div>
 
-<!--
-**orlxnd/orlxnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=left>
+    <div>
+        <h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>👨‍💻 About me</h1>
+    </div>
+        <br>
+        <p>
+            <strong>
+                Estudiante de cuarto año de Ingeniería de Sistemas Informaricos.<br><br>
+                Apasionado por la tecnología, la programación y el desarrollo de soluciones eficientes.<br><br>
+                Habilidades en varias áreas, incluyendo desarrollo web, bases de datos, y programación orientada a objetos.<br><br>
+                Me encanta trabajar en proyectos prácticos, tanto personales como académicos, que me permitan aplicar y expandir mis conocimientos.
+            </strong>
+        </p>
+    </div>
+  <br>
 
-Here are some ideas to get you started:
+- ⭐ Github Star ⭐
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚙️ &nbsp;GitHub Analytics
